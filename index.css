@@ -1,0 +1,55 @@
+﻿header {
+	background-color: #022F40;
+}
+#nav-bar {
+	display: inline-block;
+	margin-right: 10%;
+	margin-left: 7.5%;
+	
+}
+
+h3 {
+	color:#ffffff;
+}
+a {
+	color: #ffffff;
+	padding: 0.5%;
+	
+}
+#git:hover {
+	color: rgb(201, 255, 4);
+}
+#in:hover {
+	color: rgb(0, 132, 255);
+}
+#twt:hover {
+	color: rgb(0, 195, 255);
+}
+#mail:hover {
+	color: rgb(255, 34, 63);
+}
+a:hover {
+	color: #8ac961;
+	text-decoration: none;
+}
+
+
+nav {
+	background-color: #022F40;
+	padding: 2.25%;
+	padding-top: 0.5%;
+	padding-bottom: 0.25%;
+}
+body {
+	background-color: #191A1C;
+}
+@media screen and (max-width: 1500px) {
+	
+	#nav-bar {
+		display: block;
+		text-align: center;
+	}
+	a {
+		text-align: center;
+	}
+}
