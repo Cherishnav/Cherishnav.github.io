@@ -1,3 +1,1 @@
-This is my page.
-
-http://cherishnav.in/
+https://cherishnav.github.io/
