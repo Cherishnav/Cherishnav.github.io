@@ -217,13 +217,9 @@ footer{
 		text-align: center;
 	}
 	#git,#in,#twt,#mail {
-		display: none;
+		
 	}
 	footer {
 		display: none;
 	}
-	.cm {
-		diplay: visible;
-	}
-	
 }
