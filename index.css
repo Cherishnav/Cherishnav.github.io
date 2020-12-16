@@ -1,0 +1,241 @@
+﻿header {
+	background-color: #022F40;
+	
+}
+#nav-bar {
+	display: inline-block;
+	margin-right: 10%;
+	margin-left: 7.5%;
+	
+}
+h1 {
+	text-align: center;
+	font-size: 500%;
+}
+h2 {
+	font-weight: bold;
+}
+
+#main {
+	color: white;
+}
+h3 {
+	font-weight: bold;
+}
+a {
+	color: #eceaea;
+	padding: 0.5%;
+	font-size: 110%;
+	
+}
+#git:hover {
+	color: rgb(201, 255, 4);
+}
+#in:hover {
+	color: rgb(0, 132, 255);
+}
+#twt:hover {
+	color: rgb(0, 195, 255);
+}
+#mail:hover {
+	color: rgb(255, 34, 63);
+}
+a:hover {
+	color: #8ac961;
+	text-decoration: none;
+}
+.skill {
+	border: 1px solid #cecece;
+	border-radius: 4px;
+	color: #cecece;
+	padding: 1%;
+	background-color:#191A1C;
+}
+.skil {
+	border: 1px solid #03d9ff;
+	border-radius: 4px;
+	color: #03d9ff;
+	padding: 1%;
+	background-color:#191A1C;
+}
+.skill:focus {
+	outline:  #cecece dotted 2px;
+}
+.skil:focus {
+	outline: #69acb8 dotted 2px;
+}
+
+
+.skill:hover {
+	color: black;
+	background-color: #cecece;
+}
+.skil:hover {
+	color: white;
+	background-color: #03d9ff;
+}
+.find {
+	color: cornflowerblue;
+}
+.find:hover {
+	color: darksalmon;
+}
+
+nav {
+	background-color: #022F40;
+	padding: 2.25%;
+	padding-top: 0.5%;
+	padding-bottom: 0.25%;
+}
+body {
+	background-color: #191A1C;
+	font-family: monospace;
+}
+#abt {
+	color: #cecece;
+	text-align: left;
+	padding-top: 7.5%;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-bottom: 5%;
+	font-size: 150%;
+}
+
+#sls {
+	color: #cecece;
+	padding-top: 7.5%;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-bottom: 5%;
+	font-size: 150%;
+}
+
+#pjts {
+	color: #cecece;
+	text-align: left;
+	padding-top: 7.5%;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-bottom: 5%;
+	font-size: 150%;
+}
+
+#ach {
+	color: #cecece;
+	text-align: left;
+	padding-top: 7.5%;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-bottom: 5%;
+	font-size: 150%;
+}
+
+#contact {
+	color: #cecece;
+	text-align: center;
+	padding-top: 7.5%;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-bottom: 5%;
+	font-size: 150%;
+}
+
+.cm {
+	padding-top: 0.2%;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-bottom: 0.2%;
+	
+}
+
+.final {
+	background-color: #ffffff;
+}
+
+footer{
+	color: #cecece;
+	
+	
+}
+
+.bot {
+	margin: 50px;
+}
+
+.bq {
+	margin-right: 500px;
+	margin-left: 200px;
+}
+
+#ba:hover {
+	color: #cecece;
+}
+
+#bb:hover {
+	color: rgb(248, 76, 99);
+}
+
+.inlink {
+	color: #cecece;
+}
+
+.inlink:hover {
+	color: cornflowerblue;
+}
+
+.fa-forumbee {
+	color:#03d9ff;
+}
+
+.fa-centercode {
+	color: #03d9ff;
+}
+
+.fa-award {
+	color: #03d9ff;
+}
+
+.fa-link {
+	color: #03d9ff;
+}
+
+.fa-connectdevelop {
+	color: #03d9ff;
+}
+
+.fa-android:hover {
+	color: #a4c639;
+}
+
+#gita:hover {
+	color: rgb(201, 255, 4);
+}
+#ina:hover {
+	color: rgb(0, 132, 255);
+}
+#twta:hover {
+	color: rgb(0, 195, 255);
+}
+#maila:hover {
+	color: rgb(255, 34, 63);
+}
+
+@media screen and (max-width: 1500px) {
+	
+	#nav-bar {
+		display: block;
+		text-align: center;
+	}
+	a {
+		text-align: center;
+	}
+	#git,#in,#twt,#mail {
+		display: none;
+	}
+	footer {
+		display: none;
+	}
+	#cc {
+		display: none;
+	}
+}
