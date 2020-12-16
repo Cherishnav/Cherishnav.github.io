@@ -222,7 +222,8 @@ footer{
 	footer {
 		display: none;
 	}
-	.fa-android {
-		diplay: none;
+	.cm {
+		diplay: visible;
 	}
+	
 }
