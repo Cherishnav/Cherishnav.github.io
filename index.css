@@ -203,6 +203,10 @@ footer{
 	color: #03d9ff;
 }
 
+.fa-android:hover {
+	color: #a4c639;
+}
+
 @media screen and (max-width: 1500px) {
 	
 	#nav-bar {
