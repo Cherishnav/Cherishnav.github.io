@@ -222,4 +222,7 @@ footer{
 	footer {
 		display: none;
 	}
+	.fa-android:hover {
+		diplay: none;
+	}
 }
