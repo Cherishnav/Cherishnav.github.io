@@ -219,4 +219,7 @@ footer{
 	#git,#in,#twt,#mail {
 		display: none;
 	}
+	footer {
+		display: none;
+	}
 }
