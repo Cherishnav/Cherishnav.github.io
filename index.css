@@ -207,6 +207,19 @@ footer{
 	color: #a4c639;
 }
 
+#gita:hover {
+	color: rgb(201, 255, 4);
+}
+#ina:hover {
+	color: rgb(0, 132, 255);
+}
+#twta:hover {
+	color: rgb(0, 195, 255);
+}
+#maila:hover {
+	color: rgb(255, 34, 63);
+}
+
 @media screen and (max-width: 1500px) {
 	
 	#nav-bar {
@@ -216,7 +229,9 @@ footer{
 	a {
 		text-align: center;
 	}
-	
+	#git,#in,#twt,#mail {
+		display: none;
+	}
 	footer {
 		display: none;
 	}
