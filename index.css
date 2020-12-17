@@ -222,6 +222,15 @@ footer{
 	color: rgb(255, 34, 63);
 }
 
+.fa-angle-double-up {
+	position: fixed;
+	color: #cecece;
+}
+
+.fa-angle-double-up:hover {
+	color: #03d9ff;
+}
+
 @media screen and (max-width: 1500px) {
 	
 	#nav-bar {
