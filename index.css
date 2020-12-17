@@ -170,7 +170,7 @@ footer{
 }
 
 #ba:hover {
-	color: #cecece;
+	color: rgb(133, 83, 67);
 }
 
 #bb:hover {
@@ -198,7 +198,7 @@ footer{
 }
 
 .fa-link {
-	color: #03d9ff;
+	color: rgb(133, 83, 67);
 }
 
 .fa-connectdevelop {
